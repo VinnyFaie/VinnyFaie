@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @VinnyFaie
 - 👀 I’m interested in games, apps and more
-- 🌱 I’m currently learning C#, Arduino, C, HTML, CSS, Javascript, bootstrap
-
-
+- 🌱 I’m currently learning C#, C, HTML, CSS, Javascript, bootstrap, JQuery, Angular and ASP.NET
